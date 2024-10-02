@@ -1,0 +1,2 @@
+# docs
+Documentation for lair 📚
